@@ -1,7 +1,7 @@
 Clientes ativos:
-Ana
 Célio
-
+Maicon
+Marcos
 
 Clientes desativado:
-Marcos
+Ana
