@@ -1,5 +1,6 @@
 Pedido dos clientes:
 
 Ana:1
-Célio:2
-Marcos:5
+Célio:1
+Marcos:6
+Maicon:3
