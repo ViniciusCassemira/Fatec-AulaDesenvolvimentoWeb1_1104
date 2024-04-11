@@ -1,0 +1,9 @@
+Clientes
+ Marcos voltou a ser um cliente ativo
+ Ana se tornou uma cliente desativada
+ Maicon se tornou um novo cliente
+
+Pedidos
+ Marcos realizou mais 1 pedido
+ Maicon realizou 3 pedidos
+ Célio cancelou 1 pedido
