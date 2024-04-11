@@ -1,0 +1,7 @@
+Clientes ativos:
+Ana
+Célio
+
+
+Clientes desativado:
+Marcos
